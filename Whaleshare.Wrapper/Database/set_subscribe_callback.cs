@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Whaleshare.Wrapper
+namespace Whaleshare.Wrapper.Database
 {
-    public class Class1
+    class set_subscribe_callback
     {
     }
 }
