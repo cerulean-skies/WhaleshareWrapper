@@ -41,11 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Database\set_subscribe_callback.cs" />
+    <Compile Include="Handlers\Database\set_subscribe_callback.cs" />
+    <Compile Include="Structures\Database\set_subscribe_callback.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Database\set_subscribe_callback.json" />
+    <None Include="Structures\Database\set_subscribe_callback.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
