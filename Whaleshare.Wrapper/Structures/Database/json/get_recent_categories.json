@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_recent_categories",
+  "params": [ "after", "limit" ],
+  "id": 1
+}

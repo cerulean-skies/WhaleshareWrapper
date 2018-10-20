@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "verify_authority",
+  "params": [ "trx" ],
+  "id": 1
+}

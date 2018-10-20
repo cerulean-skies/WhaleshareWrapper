@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "set_pending_transaction_callback",
+  "params": [ "callback", "clearFilter" ],
+  "id": 1
+}

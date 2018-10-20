@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_account_votes",
+  "params": [ "voter" ],
+  "id": 1
+}

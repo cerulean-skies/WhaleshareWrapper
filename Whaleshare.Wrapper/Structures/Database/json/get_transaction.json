@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_transaction",
+  "params": [ "trxId" ],
+  "id": 1
+}

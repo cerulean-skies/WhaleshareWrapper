@@ -8,5 +8,6 @@ namespace Whaleshare.Wrapper.Database
 {
     class set_subscribe_callback
     {
+
     }
 }

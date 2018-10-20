@@ -1,0 +1,10 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_reward_fund",
+  "params": [ "name" ],
+  "id": 1
+}
+
+
+
+

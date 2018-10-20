@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_content",
+  "params": [ "author", "permlink" ],
+  "id": 1
+}

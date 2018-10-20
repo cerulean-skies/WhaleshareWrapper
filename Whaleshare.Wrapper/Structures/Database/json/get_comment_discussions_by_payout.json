@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_comment_discussions_by_payout",
+  "params": [ "query" ],
+  "id": 1
+}

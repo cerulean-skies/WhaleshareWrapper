@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_required_signatures",
+  "params": [ "trx", "availableKeys" ],
+  "id": 1
+}

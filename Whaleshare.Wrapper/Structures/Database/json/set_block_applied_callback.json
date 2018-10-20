@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "set_block_applied_callback",
+  "params": [ "cb" ],
+  "id": 1
+}

@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "lookup_account_names",
+  "params": [ "accountNames" ],
+  "id": 1
+}

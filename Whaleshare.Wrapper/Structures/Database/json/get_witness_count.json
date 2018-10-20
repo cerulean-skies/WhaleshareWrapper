@@ -1,0 +1,9 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_witness_count",
+  "id": 1
+}
+
+
+
+

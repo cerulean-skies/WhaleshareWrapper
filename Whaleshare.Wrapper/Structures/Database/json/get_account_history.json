@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_account_history",
+  "params": [ "account", "from", "limit" ],
+  "id": 1
+}

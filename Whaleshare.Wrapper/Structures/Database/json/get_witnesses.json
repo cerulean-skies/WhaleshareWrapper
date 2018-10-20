@@ -1,0 +1,10 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_witnesses",
+  "params": [ "witnessIds" ],
+  "id": 1
+}
+
+
+
+

@@ -1,0 +1,10 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_witness_by_account",
+  "params": [ "accountName" ],
+  "id": 1
+}
+
+
+
+

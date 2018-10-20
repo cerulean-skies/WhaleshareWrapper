@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_withdraw_routes",
+  "params": [ "account", "withdrawRouteType" ],
+  "id": 1
+}

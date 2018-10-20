@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_discussions_by_hot",
+  "params": [ "query" ],
+  "id": 1
+}

@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_tags_used_by_author",
+  "params": [ "author" ],
+  "id": 1
+}

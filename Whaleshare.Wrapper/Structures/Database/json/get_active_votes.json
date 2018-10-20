@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "verify_account_authority",
+  "params": [ "author", "permlink" ],
+  "id": 1
+}

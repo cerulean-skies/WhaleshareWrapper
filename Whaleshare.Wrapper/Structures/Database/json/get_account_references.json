@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get_account_references",
+  "params": [ "accountId" ],
+  "id": 1
+}
